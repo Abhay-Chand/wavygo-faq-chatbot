@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "en": ["Booking", "Pricing", "Documents", "Refunds", "Vehicles", "Contact Support"],
+    "hi": ["Booking", "Kiraya", "Dastavez", "Refund", "Vahan", "Sahayata"]
+  },
+  "en": [
+    {
+      "id": "doc_01",
+      "category": "Documents",
+      "q": "What documents are required to rent a bike?",
+      "a": "You'll need:\n- Valid Driving License\n- Government-issued ID\n- Booking Confirmation"
+    },
+    {
+      "id": "doc_02",
+      "category": "Documents",
+      "q": "What documents do foreigners need to rent a bike?",
+      "a": "You need a passport, an international driving permit, and a visa copy."
+    },
+    {
+      "id": "doc_03",
+      "category": "Documents",
+      "q": "Can I rent a bike with an international license?",
+      "a": "Yes, valid international driving licenses are accepted."
+    },
+    {
+      "id": "book_01",
+      "category": "Booking",
+      "q": "What is the minimum age to rent a self-drive bike?",
+      "a": "You must be at least 18 years old with a valid driving license."
+    },
+    {
+      "id": "book_02",
+      "category": "Booking",
+      "q": "How do I book a bike on WavyGo?",
+      "a": "Open the WavyGo app or website, pick your city and dates, choose a bike, and confirm payment."
+    },
+    {
+      "id": "book_03",
+      "category": "Booking",
+      "q": "Can I cancel or reschedule my booking?",
+      "a": "Yes, you can cancel or reschedule from the My Bookings section up to 2 hours before pickup."
+    },
+    {
+      "id": "price_01",
+      "category": "Pricing",
+      "q": "How do fuel costs compare with ride-sharing fares?",
+      "a": "Self-drive rentals are usually more cost effective than ride-sharing for trips longer than a few hours."
+    },
+    {
+      "id": "price_02",
+      "category": "Pricing",
+      "q": "Is there a security deposit?",
+      "a": "Yes, a refundable security deposit is collected at pickup and released after the bike is returned undamaged."
+    },
+    {
+      "id": "refund_01",
+      "category": "Refunds",
+      "q": "How long do refunds take?",
+      "a": "Refunds are processed within 5-7 business days to your original payment method."
+    },
+    {
+      "id": "refund_02",
+      "category": "Refunds",
+      "q": "What are the penalties for traffic violations during rental?",
+      "a": "You are responsible for any traffic penalties incurred during your rental period."
+    },
+    {
+      "id": "veh_01",
+      "category": "Vehicles",
+      "q": "What are the best transport options for tourists and locals?",
+      "a": "Self-drive rentals, cabs, metro, and buses are all common options depending on distance and budget."
+    },
+    {
+      "id": "veh_02",
+      "category": "Vehicles",
+      "q": "What happens if the bike breaks down during my rental?",
+      "a": "Contact our support line immediately. We'll arrange a replacement bike or roadside assistance."
+    },
+    {
+      "id": "contact_01",
+      "category": "Contact Support",
+      "q": "How do I contact WavyGo support?",
+      "a": "Email support@wavygo.in or call our support line listed in the app."
+    }
+  ],
+  "hi": [
+    {
+      "id": "doc_01",
+      "category": "Dastavez",
+      "q": "Bike kiraye par lene ke liye kaunse dastavez chahiye?",
+      "a": "Aapko chahiye:\n- Valid Driving License\n- Sarkari ID\n- Booking Confirmation"
+    },
+    {
+      "id": "doc_02",
+      "category": "Dastavez",
+      "q": "Videshi nagrikon ke liye kaunse dastavez chahiye?",
+      "a": "Aapko passport, international driving permit, aur visa copy chahiye."
+    },
+    {
+      "id": "doc_03",
+      "category": "Dastavez",
+      "q": "Kya main international license se bike kiraye par le sakta hoon?",
+      "a": "Haan, valid international driving license swikar kiya jata hai."
+    },
+    {
+      "id": "book_01",
+      "category": "Booking",
+      "q": "Self-drive bike kiraye par lene ke liye minimum age kya hai?",
+      "a": "Aapki umar kam se kam 18 saal honi chahiye aur valid driving license hona chahiye."
+    },
+    {
+      "id": "book_02",
+      "category": "Booking",
+      "q": "WavyGo par bike kaise book karein?",
+      "a": "WavyGo app ya website kholein, apna shahar aur tareekh chunein, bike chunein, aur payment confirm karein."
+    },
+    {
+      "id": "book_03",
+      "category": "Booking",
+      "q": "Kya main apni booking cancel ya reschedule kar sakta hoon?",
+      "a": "Haan, aap pickup se 2 ghante pehle tak My Bookings section se cancel ya reschedule kar sakte hain."
+    },
+    {
+      "id": "price_01",
+      "category": "Kiraya",
+      "q": "Fuel cost ride-sharing fare se kaise compare hota hai?",
+      "a": "Lambi trip ke liye self-drive rental aksar zyada cost effective hota hai."
+    },
+    {
+      "id": "price_02",
+      "category": "Kiraya",
+      "q": "Kya security deposit lagta hai?",
+      "a": "Haan, ek refundable security deposit pickup ke waqt liya jata hai aur bike sahi salamat wapas aane par release hota hai."
+    },
+    {
+      "id": "refund_01",
+      "category": "Refund",
+      "q": "Refund aane mein kitna time lagta hai?",
+      "a": "Refund 5-7 business dino mein aapke original payment method mein process ho jata hai."
+    },
+    {
+      "id": "refund_02",
+      "category": "Refund",
+      "q": "Rental ke dauran traffic violation ke liye kya penalty hai?",
+      "a": "Rental period ke dauran hui kisi bhi traffic penalty ke aap zimmedar honge."
+    },
+    {
+      "id": "veh_01",
+      "category": "Vahan",
+      "q": "Tourists aur locals ke liye best transport options kya hain?",
+      "a": "Self-drive rental, cab, metro, aur bus - ye sab common options hain, distance aur budget ke hisaab se."
+    },
+    {
+      "id": "veh_02",
+      "category": "Vahan",
+      "q": "Agar rental ke dauran bike kharab ho jaye to kya karein?",
+      "a": "Turant hamari support line par sampark karein. Hum replacement bike ya roadside assistance arrange karenge."
+    },
+    {
+      "id": "contact_01",
+      "category": "Sahayata",
+      "q": "WavyGo support se kaise sampark karein?",
+      "a": "support@wavygo.in par email karein ya app mein diye gaye support number par call karein."
+    }
+  ]
+}
