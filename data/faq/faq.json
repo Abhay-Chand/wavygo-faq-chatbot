@@ -1,0 +1,20 @@
+[
+  {
+    "id": "faq_001",
+    "question": "How do I book a ride?",
+    "answer": "You can book a ride through the WavyGo application.",
+    "category": "booking"
+  },
+  {
+    "id": "faq_002",
+    "question": "How can I cancel my ride?",
+    "answer": "You can cancel your ride through the booking section of the WavyGo application.",
+    "category": "cancellation"
+  },
+  {
+    "id": "faq_003",
+    "question": "How can I contact support?",
+    "answer": "You can contact the WavyGo support team through the official support channels.",
+    "category": "support"
+  }
+]
