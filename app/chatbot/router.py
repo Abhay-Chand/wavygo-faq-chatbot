@@ -59,12 +59,7 @@ def route_after_classification(
 
     return "out_of_scope"
 
-def route_after_retrieval(
-    state: dict,
-) -> str:
-    """
-    Determine whether retrieved FAQ context is sufficient.
-    """
+def route_after_retrieval(state: dict) -> str:
 
     if state.get("context_relevant", False):
         return "answer"
