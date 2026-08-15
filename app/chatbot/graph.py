@@ -1,6 +1,7 @@
 from langgraph.graph import StateGraph, START, END
 
 from app.chatbot.state import ChatState
+
 from app.chatbot.nodes import (
     classify_node,
     normal_response_node,
@@ -8,7 +9,9 @@ from app.chatbot.nodes import (
     relevance_node,
     generate_answer_node,
 )
+
 from app.chatbot.fallback import fallback_node
+
 from app.chatbot.router import (
     route_after_classification,
     route_after_retrieval,
@@ -16,13 +19,13 @@ from app.chatbot.router import (
 
 
 def build_chatbot_graph():
-    """
-    Build and compile the WavyGo FAQ chatbot LangGraph.
-    """
 
     builder = StateGraph(ChatState)
 
+    # -------------------------
     # Nodes
+    # -------------------------
+
     builder.add_node(
         "classify",
         classify_node,
@@ -42,9 +45,10 @@ def build_chatbot_graph():
         "relevance_check",
         relevance_node,
     )
+
     builder.add_node(
-    "generate_answer",
-    generate_answer_node,
+        "generate_answer",
+        generate_answer_node,
     )
 
     builder.add_node(
@@ -52,13 +56,19 @@ def build_chatbot_graph():
         fallback_node,
     )
 
-    # Entry point
+    # -------------------------
+    # Start
+    # -------------------------
+
     builder.add_edge(
         START,
         "classify",
     )
 
-    # Classification routing
+    # -------------------------
+    # Classification
+    # -------------------------
+
     builder.add_conditional_edges(
         "classify",
         route_after_classification,
@@ -69,25 +79,39 @@ def build_chatbot_graph():
         },
     )
 
-    # FAQ retrieval
+    # -------------------------
+    # Retrieval
+    # -------------------------
+
     builder.add_edge(
         "retrieve_faq",
         "relevance_check",
     )
 
-    # Relevance routing
+    # -------------------------
+    # Relevance
+    # -------------------------
+
     builder.add_conditional_edges(
         "relevance_check",
         route_after_retrieval,
         {
-            "answer": "fallback",
+            "answer": "generate_answer",
             "fallback": "fallback",
         },
     )
 
-    # Terminal nodes
+    # -------------------------
+    # End
+    # -------------------------
+
     builder.add_edge(
         "normal_response",
+        END,
+    )
+
+    builder.add_edge(
+        "generate_answer",
         END,
     )
 

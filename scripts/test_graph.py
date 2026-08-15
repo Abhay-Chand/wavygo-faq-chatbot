@@ -1,28 +1,33 @@
 from app.chatbot.graph import chatbot_graph
 
 
-test_messages = [
+TEST_MESSAGES = [
     "Hi",
+    "Hello",
     "How can I cancel my ride?",
     "Can I cancel a booking?",
+    "How do I book a ride?",
     "What is the weather today?",
+    "Who is the president of the United States?",
 ]
 
 
-for message in test_messages:
+for message in TEST_MESSAGES:
 
-    print("\n" + "=" * 60)
+    print("\n" + "=" * 70)
     print(f"USER: {message}")
-    print("=" * 60)
+    print("=" * 70)
 
     result = chatbot_graph.invoke(
         {
-            "user_message": message
+            "user_message": message,
         }
     )
 
     print("Intent:", result.get("intent"))
-    print("Score:", result.get("relevance_score"))
-    print("Relevant:", result.get("context_relevant"))
-    print("Answer:", result.get("answer"))
+    print("Relevance Score:", result.get("relevance_score"))
+    print("Context Relevant:", result.get("context_relevant"))
     print("Contact Support:", result.get("contact_support"))
+
+    print("\nANSWER:")
+    print(result.get("answer"))

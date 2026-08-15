@@ -9,9 +9,6 @@ load_dotenv()
 
 
 def fallback_node(state: ChatState) -> ChatState:
-    """
-    Handle questions that are outside the available FAQ knowledge.
-    """
 
     support_email = os.getenv(
         "SUPPORT_EMAIL",
@@ -23,15 +20,13 @@ def fallback_node(state: ChatState) -> ChatState:
         "+91 XXXXX XXXXX",
     )
 
-    answer = (
-        "I'm sorry, I couldn't find an answer to that "
-        "in our FAQ.\n\n"
-        "For further assistance, please contact our support team:\n\n"
-        f"📞 {support_phone}\n"
-        f"📧 {support_email}"
-    )
-
     return {
-        "answer": answer,
+        "answer": (
+            "I'm sorry, I couldn't find an answer to that "
+            "in the WavyGo FAQ.\n\n"
+            "For further Support, please contact our support team:\n"
+            f"Phone: {support_phone}\n"
+            f"Email: {support_email}"
+        ),
         "contact_support": True,
     }

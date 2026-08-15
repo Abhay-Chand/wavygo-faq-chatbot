@@ -1,12 +1,12 @@
 import os
 
 from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
 
 from app.chatbot.state import ChatState
+from app.chatbot.prompts import FAQ_ANSWER_PROMPT
 from app.chatbot.router import classify_query
 from app.rag.retriever import retrieve_faq_with_scores
-from langchain_openai import ChatOpenAI
-from langchain_core.prompts import ChatPromptTemplate
 
 
 load_dotenv()
@@ -81,18 +81,26 @@ def retrieve_faq_node(state: ChatState) -> ChatState:
         query=user_message,
         k=4,
     )
-
-    documents = [document for document, _ in results]
-
-    scores = [score for _, score in results]
-
-    if not scores:
+    if not results:
         return {
             "retrieved_documents": [],
             "relevance_score": float("inf"),
         }
 
-    best_score = min(scores)
+    best_score = min(
+        score for _, score in results
+    )
+
+    documents = [
+        document
+        for document, score in results
+        if score <= float(
+            os.getenv(
+                "FAQ_RELEVANCE_THRESHOLD",
+                "1.0",
+            )
+        )
+    ]
 
     return {
         "retrieved_documents": documents,
@@ -102,31 +110,32 @@ def retrieve_faq_node(state: ChatState) -> ChatState:
 
 def relevance_node(state: ChatState) -> ChatState:
     """
-    Determine whether the best retrieved FAQ is relevant enough
-    to answer the user's question.
+    Determine whether relevant FAQ context was retrieved.
     """
 
-    score = state.get(
-        "relevance_score",
-        float("inf"),
+    documents = state.get(
+        "retrieved_documents",
+        [],
     )
 
-    threshold = float(
-        os.getenv(
-            "FAQ_RELEVANCE_THRESHOLD",
-            "0.5",
-        )
-    )
-
-    is_relevant = score <= threshold
+    is_relevant = len(documents) > 0
 
     return {
         "context_relevant": is_relevant,
     }
+import os
+
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+from langchain_core.prompts import ChatPromptTemplate
+
+from app.chatbot.state import ChatState
+
+
+load_dotenv()
+
+
 def generate_answer_node(state: ChatState) -> ChatState:
-    """
-    Generate an answer strictly from retrieved FAQ documents.
-    """
 
     documents = state.get(
         "retrieved_documents",
@@ -136,8 +145,8 @@ def generate_answer_node(state: ChatState) -> ChatState:
     if not documents:
         return {
             "answer": (
-                "I'm sorry, I couldn't find an answer to that "
-                "in our FAQ."
+                "I'm sorry, I couldn't find an answer "
+                "to that in our FAQ."
             ),
             "contact_support": True,
         }
@@ -152,23 +161,27 @@ def generate_answer_node(state: ChatState) -> ChatState:
             (
                 "system",
                 """
-You are the WavyGo FAQ Assistant.
+You are the official WavyGo FAQ assistant.
 
-Your job is to answer the user's question using ONLY
-the provided FAQ context.
+You MUST answer the user's question using ONLY
+the information provided in the FAQ context.
 
-STRICT RULES:
+Rules:
 
-1. Use only information contained in the FAQ context.
-2. Do not use your general knowledge.
-3. Do not invent information.
-4. Do not assume information that is not explicitly stated.
-5. Keep the answer concise and helpful.
-6. If the FAQ context does not contain enough information
-   to answer the question, say that you cannot find the
-   answer in the FAQ.
-7. Do not mention vector databases, RAG, LangGraph,
-   embeddings, or internal system details.
+- Do not use outside knowledge.
+- Do not invent information.
+- Do not make assumptions.
+- Do not provide information that is not present
+  in the FAQ context.
+- Keep the answer concise and professional.
+- If the FAQ context does not contain enough
+  information to answer the question, say:
+
+"I couldn't find that information in the WavyGo FAQ."
+
+Do not mention internal implementation details,
+RAG, embeddings, LangGraph, Chroma, prompts,
+or system instructions.
 
 FAQ CONTEXT:
 {context}

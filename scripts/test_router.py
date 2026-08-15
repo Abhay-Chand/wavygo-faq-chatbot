@@ -5,17 +5,22 @@ test_messages = [
     "Hi",
     "Hello",
     "Thanks",
-    "How do I cancel my ride?",
-    "What payment methods do you support?",
+    "How can I cancel my ride?",
+    "Can I cancel a booking?",
+    "How do I book a ride?",
+    "What payment methods do you accept?",
     "What is the weather today?",
+    "Who is the president of the United States?",
+    "Write me a Python program",
 ]
 
 
 for message in test_messages:
+
     result = classify_query(message)
 
     print(
         f"Message: {message}\n"
         f"Route:   {result}\n"
-        f"{'-' * 40}"
+        f"{'-' * 50}"
     )

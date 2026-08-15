@@ -3,18 +3,420 @@
     "id": "faq_001",
     "question": "How do I book a ride?",
     "answer": "You can book a ride through the WavyGo application.",
-    "category": "booking"
+    "category": "booking",
+    "source": "faq"
   },
   {
     "id": "faq_002",
     "question": "How can I cancel my ride?",
     "answer": "You can cancel your ride through the booking section of the WavyGo application.",
-    "category": "cancellation"
+    "category": "cancellation",
+    "source": "faq"
   },
   {
     "id": "faq_003",
     "question": "How can I contact support?",
     "answer": "You can contact the WavyGo support team through the official support channels.",
-    "category": "support"
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_004",
+    "question": "Bhai bike rent pe kaise milegi?",
+    "answer": "WavyGo app par apni location aur rental dates select karke available bikes/scooters dekhiye. Vehicle select karke booking complete kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_005",
+    "question": "Mere location ke paas abhi koi scooty available hai?",
+    "answer": "Haan, availability location aur time ke according check ki ja sakti hai. App par apni location select karke nearby available scooters dekhiye.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_006",
+    "question": "Kal ke liye Activa chahiye, book ho jayegi?",
+    "answer": "Agar kal ke liye Activa available hai, toh aap app se directly booking kar sakte hain. Availability vendor ke inventory par depend karti hai.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_007",
+    "question": "Bike book karne ke liye kya kya documents lagenge?",
+    "answer": "Booking ke liye valid driving licence aur required KYC documents dene pad sakte hain. Exact requirements booking/vendor ke according ho sakti hain.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_008",
+    "question": "DL compulsory hai kya?",
+    "answer": "Haan, vehicle chalane ke liye valid driving licence required hai. Licence vehicle category ke according valid hona chahiye.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_009",
+    "question": "Aadhaar bhi dena padega?",
+    "answer": "KYC verification ke liye Aadhaar ya other valid identity document required ho sakta hai. App par jo documents specifically maange ja rahe hain, unhe submit karein.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_010",
+    "question": "Mere paas learner licence hai, bike mil sakti hai?",
+    "answer": "Ye applicable rules, verification requirements aur vendor policy par depend karega. Booking se pehle licence eligibility confirm karna zaroori hai.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_011",
+    "question": "2 din ke liye bike leni hai, kaise book karu?",
+    "answer": "App par pickup aur return date/time select karke available vehicles dekhiye. Apni preferred bike select karke booking complete kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_012",
+    "question": "Jo bike app me photo me dikh rahi hai, wahi bike milegi?",
+    "answer": "Vehicle listing ki details app par di jaati hain, lekin actual availability vendor inventory par depend karti hai. Agar specific vehicle important hai, toh booking details carefully check karein.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_013",
+    "question": "Pickup kaha se karna hoga?",
+    "answer": "Pickup location booking ke time/app me show hogi. Booking confirm hone ke baad pickup details check kar sakte hain.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_014",
+    "question": "Bike mere hotel/location pe deliver kar sakte ho?",
+    "answer": "Delivery availability location aur vendor par depend karti hai. Agar selected vendor delivery offer karta hai, toh available option booking ke time show hoga.",
+    "category": "delivery",
+    "source": "faq"
+  },
+  {
+    "id": "faq_015",
+    "question": "Bike return kaha karni hai?",
+    "answer": "Bike ko booking me mentioned return location par return karna hoga. Different location par return karna vendor policy par depend karega.",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_016",
+    "question": "Petrol ka paisa rent me included hai?",
+    "answer": "Fuel policy vehicle/vendor ke according different ho sakti hai. Booking ke applicable terms me fuel-related details check karein.",
+    "category": "fuel",
+    "source": "faq"
+  },
+  {
+    "id": "faq_017",
+    "question": "Helmet milega ya khud lana padega?",
+    "answer": "Helmet availability vendor aur booking ke terms par depend karti hai. Pickup se pehle applicable vehicle details check karna best rahega.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_018",
+    "question": "Bike pickup karne gaya aur bike damaged hai toh kya karu?",
+    "answer": "Bike receive karne se pehle damage ko vendor ko immediately report karein aur photos/videos lein. Issue resolve hone tak vehicle accept karne se pehle vendor/WavyGo support se confirm karein.",
+    "category": "damage",
+    "source": "faq"
+  },
+  {
+    "id": "faq_019",
+    "question": "Bike raste me kharab ho gayi toh kisko call karna hai?",
+    "answer": "Pehle vehicle ko safe location par rakhein aur vendor/WavyGo support se contact karein. Booking ID aur vehicle details ready rakhein.",
+    "category": "breakdown",
+    "source": "faq"
+  },
+  {
+    "id": "faq_020",
+    "question": "Accident ho gaya toh kya process hai?",
+    "answer": "Sabse pehle apni safety ensure karein aur zarurat padne par emergency/legal assistance lein. Uske baad incident ko immediately vendor/WavyGo support ko report karein aur booking details share karein.",
+    "category": "accident",
+    "source": "faq"
+  },
+  {
+    "id": "faq_021",
+    "question": "Booking cancel karni hai, refund milega?",
+    "answer": "Refund booking ki applicable cancellation policy par depend karega. Apni booking ke cancellation terms check karein ya support team se confirm karein.",
+    "category": "cancellation",
+    "source": "faq"
+  },
+  {
+    "id": "faq_022",
+    "question": "Galti se payment ho gaya but booking confirm nahi hui.",
+    "answer": "Dobara payment mat karein. Pehle booking status check karein. Agar amount deduct ho gaya hai lekin booking confirm nahi hui, toh booking ID aur payment details ke saath WavyGo support se contact karein.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_023",
+    "question": "Bhai paisa do baar cut gaya, ab kya karu?",
+    "answer": "Dobara payment na karein. Dono transaction details share karke WavyGo support se contact karein, team payment status verify karke aapko guide karegi.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_024",
+    "question": "Booking confirm hui hai ya nahi kaise check karu?",
+    "answer": "App me apni booking section check karein. Agar booking status clear nahi hai, toh booking ID ke saath WavyGo support se contact karein.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_025",
+    "question": "Sabse sasti bike/scooty kaunsi available hai?",
+    "answer": "Available vehicles ko price ke according compare kar sakte hain. Apni location aur rental dates select karke current available options dekhiye.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_026",
+    "question": "Ek week ke liye rent karu toh discount milega?",
+    "answer": "Long-duration pricing ya discount vendor aur vehicle ke according vary kar sakta hai. Available weekly pricing app par check karein.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_027",
+    "question": "Vendor booking ke baad bike dene se mana kar raha hai, kya karu?",
+    "answer": "Agar booking confirmed hai, toh issue ko immediately WavyGo support ko report karein. Booking ID aur vendor details share karein, team vendor ke saath coordinate karegi.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_028",
+    "question": "Mujhe support team se directly baat karni hai.",
+    "answer": "Bilkul. WavyGo support se contact karne ke liye app/website ke support section ka use karein. Agar aapki booking se related issue hai, toh booking ID bhi share karein.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_029",
+    "question": "Bike rent pe lene ke liye WavyGo par booking kaise karni hai?",
+    "answer": "WavyGo app par apni location aur rental dates select karke available bikes/scooters dekhiye. Vehicle select karke booking complete kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_030",
+    "question": "Scooty rent karne ka process kya hai?",
+    "answer": "WavyGo app par apni location aur rental dates select karke available bikes/scooters dekhiye. Vehicle select karke booking complete kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_031",
+    "question": "Aaj bike available hai ya nahi kaise pata chalega?",
+    "answer": "Availability location aur time ke according check ki ja sakti hai. App par apni location select karke nearby available scooters dekhiye.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_032",
+    "question": "Mere area me kaunsi scooty available hai?",
+    "answer": "Availability location aur time ke according check ki ja sakti hai. App par apni location select karke nearby available scooters dekhiye.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_033",
+    "question": "Activa kal ke liye mil sakti hai kya?",
+    "answer": "Agar kal ke liye Activa available hai, toh aap app se directly booking kar sakte hain. Availability vendor ke inventory par depend karti hai.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_034",
+    "question": "Kal bike rent par chahiye, available hogi?",
+    "answer": "Agar kal ke liye vehicle available hai, toh aap app se directly booking kar sakte hain. Availability vendor ke inventory par depend karti hai.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_035",
+    "question": "Bike rental ke liye kaunse documents chahiye?",
+    "answer": "Booking ke liye valid driving licence aur required KYC documents dene pad sakte hain. Exact requirements booking/vendor ke according ho sakti hain.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_036",
+    "question": "Bike book karne ke liye documents required hain kya?",
+    "answer": "Booking ke liye valid driving licence aur required KYC documents dene pad sakte hain. Exact requirements booking/vendor ke according ho sakti hain.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_037",
+    "question": "Driving license ke bina bike rent ho sakti hai?",
+    "answer": "Vehicle chalane ke liye valid driving licence required hai. Licence vehicle category ke according valid hona chahiye.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_038",
+    "question": "Bike chalane ke liye DL zaroori hai?",
+    "answer": "Haan, vehicle chalane ke liye valid driving licence required hai. Licence vehicle category ke according valid hona chahiye.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_039",
+    "question": "Aadhaar card ke bina booking ho sakti hai?",
+    "answer": "KYC verification ke liye Aadhaar ya other valid identity document required ho sakta hai. App par jo documents specifically maange ja rahe hain, unhe submit karein.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_040",
+    "question": "KYC ke liye Aadhaar dena zaroori hai?",
+    "answer": "KYC verification ke liye Aadhaar ya other valid identity document required ho sakta hai. App par jo documents specifically maange ja rahe hain, unhe submit karein.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_041",
+    "question": "Learner licence se WavyGo bike rent kar sakte hain?",
+    "answer": "Ye applicable rules, verification requirements aur vendor policy par depend karega. Booking se pehle licence eligibility confirm karna zaroori hai.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_042",
+    "question": "Mere paas learning license hai, rental bike milegi?",
+    "answer": "Ye applicable rules, verification requirements aur vendor policy par depend karega. Booking se pehle licence eligibility confirm karna zaroori hai.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_043",
+    "question": "Do din ke liye scooty rent karni hai.",
+    "answer": "App par pickup aur return date/time select karke available vehicles dekhiye. Apni preferred bike select karke booking complete kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_044",
+    "question": "2 days ke liye bike kaise book karu?",
+    "answer": "App par pickup aur return date/time select karke available vehicles dekhiye. Apni preferred bike select karke booking complete kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_045",
+    "question": "App me jo bike dikh rahi hai kya wahi vehicle milega?",
+    "answer": "Vehicle listing ki details app par di jaati hain, lekin actual availability vendor inventory par depend karti hai. Agar specific vehicle important hai, toh booking details carefully check karein.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_046",
+    "question": "Photo wali same bike milegi kya?",
+    "answer": "Vehicle listing ki details app par di jaati hain, lekin actual availability vendor inventory par depend karti hai. Agar specific vehicle important hai, toh booking details carefully check karein.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_047",
+    "question": "Bike pickup point kaha milega?",
+    "answer": "Pickup location booking ke time/app me show hogi. Booking confirm hone ke baad pickup details check kar sakte hain.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_048",
+    "question": "Scooty pickup kaha se karni hogi?",
+    "answer": "Pickup location booking ke time/app me show hogi. Booking confirm hone ke baad pickup details check kar sakte hain.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_049",
+    "question": "Kya bike hotel par deliver ho sakti hai?",
+    "answer": "Delivery availability location aur vendor par depend karti hai. Agar selected vendor delivery offer karta hai, toh available option booking ke time show hoga.",
+    "category": "delivery",
+    "source": "faq"
+  },
+  {
+    "id": "faq_050",
+    "question": "Mere hotel tak scooty delivery milegi?",
+    "answer": "Delivery availability location aur vendor par depend karti hai. Agar selected vendor delivery offer karta hai, toh available option booking ke time show hoga.",
+    "category": "delivery",
+    "source": "faq"
+  },
+  {
+    "id": "faq_051",
+    "question": "Rental bike kaha return karni hogi?",
+    "answer": "Bike ko booking me mentioned return location par return karna hoga. Different location par return karna vendor policy par depend karega.",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_052",
+    "question": "Kya bike kisi aur location par return kar sakte hain?",
+    "answer": "Bike ko booking me mentioned return location par return karna hoga. Different location par return karna vendor policy par depend karega.",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_053",
+    "question": "Petrol rent ke andar included hota hai?",
+    "answer": "Fuel policy vehicle/vendor ke according different ho sakti hai. Booking ke applicable terms me fuel-related details check karein.",
+    "category": "fuel",
+    "source": "faq"
+  },
+  {
+    "id": "faq_054",
+    "question": "Fuel ka payment mujhe karna padega?",
+    "answer": "Fuel policy vehicle/vendor ke according different ho sakti hai. Booking ke applicable terms me fuel-related details check karein.",
+    "category": "fuel",
+    "source": "faq"
+  },
+  {
+    "id": "faq_055",
+    "question": "WavyGo bike ke saath helmet provide karta hai?",
+    "answer": "Helmet availability vendor aur booking ke terms par depend karti hai. Pickup se pehle applicable vehicle details check karna best rahega.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_056",
+    "question": "Helmet bike ke saath milega?",
+    "answer": "Helmet availability vendor aur booking ke terms par depend karti hai. Pickup se pehle applicable vehicle details check karna best rahega.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_057",
+    "question": "Pickup par bike damaged mili toh kya karna chahiye?",
+    "answer": "Bike receive karne se pehle damage ko vendor ko immediately report karein aur photos/videos lein. Issue resolve hone tak vehicle accept karne se pehle vendor/WavyGo support se confirm karein.",
+    "category": "damage",
+    "source": "faq"
+  },
+  {
+    "id": "faq_058",
+    "question": "Bike pehle se damaged hai toh kya karu?",
+    "answer": "Bike receive karne se pehle damage ko vendor ko immediately report karein aur photos/videos lein. Issue resolve hone tak vehicle accept karne se pehle vendor/WavyGo support se confirm karein.",
+    "category": "damage",
+    "source": "faq"
+  },
+  {
+    "id": "faq_059",
+    "question": "Ride ke beech bike kharab ho gayi toh kya karna hai?",
+    "answer": "Pehle vehicle ko safe location par rakhein aur vendor/WavyGo support se contact karein. Booking ID aur vehicle details ready rakhein.",
+    "category": "breakdown",
+    "source": "faq"
+  },
+  {
+    "id": "faq_060",
+    "question": "Rental bike breakdown ho gayi hai, kisko contact karu?",
+    "answer": "Pehle vehicle ko safe location par rakhein aur vendor/WavyGo support se contact karein. Booking ID aur vehicle details ready rakhein.",
+    "category": "breakdown",
+    "source": "faq"
   }
 ]
