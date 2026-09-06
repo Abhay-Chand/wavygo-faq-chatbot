@@ -784,13 +784,12 @@ The project focuses on building a controlled RAG application where retrieval, wo
 
 ## Author
 
-**Abhay Chand**
+**Khushbu Joshi**
 
-B.Tech in Artificial Intelligence & Machine Learning
+B.Tech in computer Science and Engineering
 
 AI Engineer | Data Engineer | AI/ML Practitioner
 
-GitHub: [Abhay-Chand](https://github.com/Abhay-Chand)
 
 ---
 
