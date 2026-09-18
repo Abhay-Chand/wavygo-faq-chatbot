@@ -418,5 +418,1062 @@
     "answer": "Pehle vehicle ko safe location par rakhein aur vendor/WavyGo support se contact karein. Booking ID aur vehicle details ready rakhein.",
     "category": "breakdown",
     "source": "faq"
-  }
+  },
+  {
+    "id": "faq_061",
+    "question": "App crash ho raha hai baar baar, kya karu?",
+    "answer": "Pehle app ko latest version me update karein aur phone restart karein. Agar problem phir bhi ho, toh app cache clear karein ya WavyGo support ko issue detail ke saath report karein.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_062",
+    "question": "How do I update the WavyGo app to the latest version?",
+    "answer": "You can update the app from the Google Play Store or Apple App Store by searching for WavyGo and selecting the update option if one is available.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_063",
+    "question": "Booking history me purani rides kaise dekhu?",
+    "answer": "App ke booking history section me apni past rentals ki list dekhi ja sakti hai. Wahan se completed bookings ki details bhi check kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_064",
+    "question": "Can I download my rental history as a report?",
+    "answer": "Depending on the app's current features, your booking history may be viewable or downloadable from the app. Check the booking history section, or contact support if you need it in a specific format.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_065",
+    "question": "Vehicle ki insurance details kaise check karu?",
+    "answer": "Insurance-related information vehicle listing ya booking ke applicable terms me di ja sakti hai. Agar clarity chahiye, toh WavyGo support se confirm karein.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_066",
+    "question": "How do I know if my saved card details are stored securely by WavyGo?",
+    "answer": "Payment and card-handling practices are generally described in the app's privacy or payment information section. You can review that section for details on how your data is handled.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_067",
+    "question": "Vendor ne booking time se bahut late bike di, iske liye koi compensation milta hai?",
+    "answer": "Vendor delay se related koi compensation applicable terms par depend karega. Is situation ko booking ID ke saath WavyGo support ko report karein taaki team review kar sake.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_068",
+    "question": "Is there a way to pre-book a vehicle several weeks in advance for a specific event?",
+    "answer": "Advance booking availability depends on how far ahead the app and vendor allow scheduling. Check the booking calendar in the app for your desired date, or confirm with support.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_069",
+    "question": "App me language change karne ka option hai kya?",
+    "answer": "App ke settings section me language option check karein. Agar available hai, toh wahan se apni preferred language select kar sakte hain.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_070",
+    "question": "Can I switch my WavyGo account from personal use to business use?",
+    "answer": "Switching an account type would depend on the app's current settings and features. Check your account/profile settings, or contact support to ask about this option.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_071",
+    "question": "Vehicle chalate waqt helmet nahi pehna, iske liye WavyGo responsible hoga?",
+    "answer": "Vehicle chalate waqt applicable traffic rules follow karna rider ki responsibility hai. Helmet use se related koi bhi liability applicable rules aur booking terms ke according hogi.",
+    "category": "policy",
+    "source": "faq"
+  },
+  {
+    "id": "faq_072",
+    "question": "What should I do if the vehicle's brakes feel unsafe right after pickup?",
+    "answer": "Stop using the vehicle immediately if you feel it's unsafe, and contact the vendor and WavyGo support right away with your booking ID so the issue can be addressed before you continue riding.",
+    "category": "damage",
+    "source": "faq"
+  },
+  {
+    "id": "faq_073",
+    "question": "Meri booking confirm hui thi lekin app me nahi dikh rahi, kya karu?",
+    "answer": "App ko refresh karke booking history dobara check karein. Agar phir bhi booking nahi dikh rahi, toh payment confirmation aur booking ID ke saath WavyGo support se contact karein.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_074",
+    "question": "How can I verify that a vendor calling me is actually a genuine WavyGo partner?",
+    "answer": "You can cross-check the vendor's details against what's shown in your booking on the app. If something seems off, contact WavyGo support to verify before sharing any information.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_075",
+    "question": "Kya booking ke baad vehicle ka color ya variant change karwa sakte hain?",
+    "answer": "Color ya variant change karna availability aur vendor policy par depend karega. Booking confirm hone ke baad iske liye vendor ya WavyGo support se contact karein.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_076",
+    "question": "If I'm not satisfied with the vehicle's condition, can I request a replacement before starting my ride?",
+    "answer": "You can raise this concern with the vendor at pickup before accepting the vehicle. If it isn't resolved there, report it to WavyGo support with your booking ID.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_077",
+    "question": "Rental ke dauran number plate se related koi issue ho toh kya karna chahiye?",
+    "answer": "Aisi kisi bhi issue ko turant vendor aur WavyGo support ko booking ID ke saath report karein, taaki wo isse verify aur resolve kar sake.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_078",
+    "question": "Does WavyGo provide a roadside assistance number I can call directly during a breakdown?",
+    "answer": "Support contact options for situations like a breakdown are listed in the app's support section. Check there for the current way to reach assistance directly.",
+    "category": "breakdown",
+    "source": "faq"
+  },
+  {
+    "id": "faq_079",
+    "question": "Booking cancel karne ki last time limit kya hoti hai?",
+    "answer": "Cancellation ki time limit applicable cancellation policy par depend karti hai, jo booking ke terms me mention ki jaati hai. Apni booking se ye details check karein.",
+    "category": "cancellation",
+    "source": "faq"
+  },
+  {
+    "id": "faq_080",
+    "question": "Can I split the rental payment between two different payment methods?",
+    "answer": "Whether payment can be split across two methods depends on the app's current checkout features. Check the payment screen at checkout, or ask support if this isn't showing as an option.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_081",
+    "question": "App notifications band karne ka option kaha milega?",
+    "answer": "Phone ki app settings ya WavyGo app ke andar notification preferences me jaakar notifications ko manage kiya ja sakta hai.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_082",
+    "question": "What should I do if I accidentally selected the wrong pickup location while booking?",
+    "answer": "If the booking hasn't been finalised yet, try editing the location in the app before confirming. If it's already confirmed, contact WavyGo support with your booking ID to correct it.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_083",
+    "question": "Rent par li gayi bike agar traffic police dwara seize kar li jaaye, toh kya karu?",
+    "answer": "Aisi situation me turant vendor aur WavyGo support ko booking ID ke saath inform karein, taaki wo aapko aage ke process me guide kar saken.",
+    "category": "policy",
+    "source": "faq"
+  },
+  {
+    "id": "faq_084",
+    "question": "Can I request a specific vehicle color when multiple color options are available for the same model?",
+    "answer": "Requesting a specific color would depend on what the vendor currently has in stock. You can check the listing details or ask the vendor directly at the time of booking.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_085",
+    "question": "WavyGo app me dark mode ka option hai kya?",
+    "answer": "Dark mode ki availability app ke current version aur features par depend karti hai. App ke settings me check karke pata chal jayega.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_086",
+    "question": "What is the process to permanently delete my WavyGo account?",
+    "answer": "Account deletion options are usually available in the app's account or profile settings. If you don't see it there, you can request deletion by contacting WavyGo support.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_087",
+    "question": "Kya main apni active booking kisi doosre user ko transfer kar sakta hu?",
+    "answer": "Booking transfer ki possibility applicable terms aur vendor policy par depend karti hai. Iske liye WavyGo support se apni specific situation confirm karein.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_088",
+    "question": "How does WavyGo handle a situation where the same vehicle gets double-booked by mistake?",
+    "answer": "If a double-booking happens, contact WavyGo support immediately with both booking IDs so the team can look into resolving it, which may include rebooking or a refund depending on the case.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_089",
+    "question": "Vehicle return karte waqt agar vendor return point par available na ho toh kya karu?",
+    "answer": "Kuch der wait karke vendor ko contact karne ki koshish karein. Agar response na mile, toh WavyGo support ko booking ID ke saath inform karein.",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_090",
+    "question": "Is it possible to see an estimated arrival time for the vendor at the pickup point?",
+    "answer": "Whether an estimated arrival time is shown depends on the app's current tracking features. Check your booking details for any such information provided.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_091",
+    "question": "Rental ke dauran vehicle ka koi part apne aap kharab ho gaya, iska paisa kaun dega?",
+    "answer": "Normal wear-and-tear ya mechanical issue ki responsibility applicable terms par depend karti hai. Aise issue ko turant vendor aur WavyGo support ko report karein.",
+    "category": "breakdown",
+    "source": "faq"
+  },
+  {
+    "id": "faq_092",
+    "question": "Can I view all nearby vendors on a map before choosing where to rent from?",
+    "answer": "The app's search and discovery experience may include a map view of nearby options depending on the current version. Check the search screen for this feature.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_093",
+    "question": "App par displayed vendor rating genuine hoti hai kya?",
+    "answer": "Vendor ratings customer reviews ke basis par app par show ki jaati hain. Agar kisi rating ko lekar concern hai, toh WavyGo support ko details ke saath inform kar sakte hain.",
+    "category": "trust",
+    "source": "faq"
+  },
+  {
+    "id": "faq_094",
+    "question": "What should I do if I'm charged for damage that I believe I didn't cause?",
+    "answer": "You can dispute the charge by contacting WavyGo support with your booking ID and any evidence, such as photos taken at pickup, so the team can review the case.",
+    "category": "damage",
+    "source": "faq"
+  },
+  {
+    "id": "faq_095",
+    "question": "Booking ke time koi special request jaise extra helmet add kar sakte hain kya?",
+    "answer": "Special requests ki availability vendor policy aur app ke current features par depend karti hai. Booking ke time ya vendor se directly iske baare me confirm kar sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_096",
+    "question": "How do I contact WavyGo if I have a suggestion to improve the app?",
+    "answer": "You can share app-related suggestions through the support or feedback section of the app, where the team can review and consider your input.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_097",
+    "question": "Vehicle ke documents jaise RC aur insurance verify karne ka koi tarika hai kya?",
+    "answer": "Listed vehicles ki details app par di jaati hain, lekin document verification ka exact process vendor aur applicable terms par depend karta hai. Clarity ke liye support se confirm karein.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_098",
+    "question": "Can I use my WavyGo account on multiple devices at the same time?",
+    "answer": "Account access across multiple devices depends on the app's current login features. Try logging in on the second device, and contact support if you face any issue.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_099",
+    "question": "Agar booking ke baad vendor ne price badha di, toh kya karu?",
+    "answer": "Confirmed booking me price change nahi honi chahiye jab tak applicable terms me allow na ho. Aisi situation ko turant WavyGo support ko booking ID ke saath report karein.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_100",
+    "question": "What happens to my active booking if the app goes down temporarily?",
+    "answer": "Your confirmed booking details should remain valid even if the app faces a temporary outage. If you're unsure, you can confirm your booking status with support once the app is back or through another channel.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_101",
+    "question": "Kya WavyGo customer care ko call karke bhi contact kar sakte hain?",
+    "answer": "Support ke available contact channels app/website ke support section me mention kiye jaate hain, jahan se pata chalega ki call support available hai ya nahi.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_102",
+    "question": "How long is a booking held before it automatically expires if payment isn't completed?",
+    "answer": "The time a booking is held before expiring without payment depends on the app's current process. If your payment doesn't go through in time, you may need to restart the booking.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_103",
+    "question": "Meri booking id kho gayi hai, use kaise dhundu?",
+    "answer": "App ke booking history section me apni past aur current bookings dekhi ja sakti hain, jahan se booking ID mil jayegi. Agar problem ho, toh support se help le sakte hain.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_104",
+    "question": "Does WavyGo offer any loyalty or rewards program for frequent renters?",
+    "answer": "Any loyalty or rewards program would be reflected in the app's current offers or promotions section. Check there, or ask support for the latest information.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_105",
+    "question": "Vehicle ke saath toolkit ya puncture kit diya jaata hai kya?",
+    "answer": "Vehicle ke saath dee jaane wali accessories vendor aur booking ke applicable terms par depend karti hain. Pickup se pehle vendor se confirm kar sakte hain.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_106",
+    "question": "Can I add a co-renter to share the same booking with me?",
+    "answer": "Adding a co-renter to a single booking depends on the app's current features and vendor policy. Check the booking flow, or confirm with support if this option is available.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_107",
+    "question": "Rental start hone se pehle agar mausam kharab ho jaaye, toh cancel kar sakte hain?",
+    "answer": "Weather ki wajah se cancellation applicable cancellation policy ke according hogi. Booking ke terms check karein ya support se confirm karein.",
+    "category": "cancellation",
+    "source": "faq"
+  },
+  {
+    "id": "faq_108",
+    "question": "What should I do if my uploaded document gets rejected during verification?",
+    "answer": "If a document is rejected, check that it's clear, valid, and matches the required type, then try re-uploading it. If the issue continues, contact WavyGo support for help.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_109",
+    "question": "WavyGo app ka size kitna hai aur kitni storage chahiye?",
+    "answer": "App ka size app store listing (Google Play ya Apple App Store) par mention kiya jaata hai, jahan se download se pehle exact details check ki ja sakti hain.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_110",
+    "question": "Is there a way to save my favourite vendors for future bookings?",
+    "answer": "A favourites or saved-vendors feature would depend on the app's current functionality. Check the app for such an option, or share this as feedback with support.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_111",
+    "question": "Kya rental ke dauran vehicle ka use delivery ya commercial purpose ke liye kar sakte hain?",
+    "answer": "Commercial ya delivery use ki permission applicable rental terms aur vendor policy par depend karti hai. Booking se pehle ye confirm kar lena best rahega.",
+    "category": "policy",
+    "source": "faq"
+  },
+  {
+    "id": "faq_112",
+    "question": "How do I report incorrect vehicle information shown in a listing?",
+    "answer": "You can report incorrect listing information to WavyGo support by mentioning the specific vehicle and the details that seem inaccurate, so the team can look into it.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_113",
+    "question": "Agar mujhe booking se related SMS ya email confirmation nahi mil raha, toh kya karu?",
+    "answer": "Pehle apna spam/junk folder aur network signal check karein. Agar phir bhi confirmation nahi mile, toh app ke booking history me status check karein ya support se contact karein.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_114",
+    "question": "Can I book a vehicle without linking a payment method in advance?",
+    "answer": "Whether a payment method must be linked before booking depends on the app's current checkout process. Try starting a booking to see what's required at that step.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_115",
+    "question": "Vendor ke pass se bike lene ke baad agar wo bike beech rental me hi wapas mangne lage, kya karu?",
+    "answer": "Ek confirmed booking ke dauran vendor ko bina valid reason ke vehicle wapas nahi maangni chahiye. Aisi situation ko turant WavyGo support ko booking ID ke saath report karein.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_116",
+    "question": "Can I request an automatic (non-gear) vehicle specifically while booking?",
+    "answer": "You can filter or check listings for automatic/non-gear vehicles based on the categories and details shown in the app, subject to what's available near you.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_117",
+    "question": "Rental agreement PDF format me download kar sakte hain kya?",
+    "answer": "Applicable terms ko app ke andar review kiya ja sakta hai. PDF download ki availability current app features par depend karti hai, jise support se bhi confirm kar sakte hain.",
+    "category": "policy",
+    "source": "faq"
+  },
+  {
+    "id": "faq_118",
+    "question": "How do I know which vendor is nearest to my current location?",
+    "answer": "When you search using your location on the app, nearby available vendors and their vehicles are shown as part of the results.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_119",
+    "question": "Agar meri booking galat category me ho gayi, jaise scooter ki jagah bike, toh fix kaise kare?",
+    "answer": "Agar booking confirm hone se pehle galti pata chale, toh use app se edit karne ki koshish karein. Confirm ho chuki booking ke liye WavyGo support ko booking ID ke saath contact karein.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_120",
+    "question": "Does WavyGo notify me when a previously unavailable vehicle becomes available again?",
+    "answer": "Whether the app sends such availability alerts depends on its current notification features. Check your notification settings, or ask support about this option.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_121",
+    "question": "Vehicle handover ke time agar vendor documents check karne se mana kar de, toh kya karu?",
+    "answer": "Documents verification generally applicable process ka hissa hota hai. Agar vendor mana kare, toh isse WavyGo support ko booking ID ke saath report karein.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_122",
+    "question": "Can I schedule automatic recurring bookings for the same days every week?",
+    "answer": "Recurring or scheduled repeat bookings would depend on the app's current features. Check the booking section for this option, or share it as feedback with support if it's not available yet.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_123",
+    "question": "WavyGo par account banane ke liye email zaroori hai ya sirf mobile number se ho jayega?",
+    "answer": "Account signup ke requirements app ke current process par depend karte hain. Signup screen par jo fields maangi jaati hain, unhe follow karein.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_124",
+    "question": "What is the process to raise a request for a partial refund?",
+    "answer": "You can raise a partial refund request by contacting WavyGo support with your booking ID and the reason, and the team will review it based on the applicable policy.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_125",
+    "question": "Kya main booking ke baad apna wo contact number change kar sakta hu jo vendor ko dikhta hai?",
+    "answer": "Vendor ko dikhne wale contact number ko update karne ki possibility app ke current features par depend karti hai. Iske liye account settings check karein ya support se contact karein.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_126",
+    "question": "How is a customer's identity verified before their first-time booking is approved?",
+    "answer": "First-time verification generally involves submitting the required documents through the app, which are then checked before a booking is approved. Exact steps can vary by booking or vendor.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_127",
+    "question": "Agar rental complete hone ke baad bhi payment status pending dikh raha ho, kya karu?",
+    "answer": "Thodi der wait karke status dobara check karein, kyunki update hone me time lag sakta hai. Agar status pending hi rahe, toh booking ID ke saath WavyGo support se contact karein.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_128",
+    "question": "Can I get a duplicate copy of my rental invoice if I lose the original?",
+    "answer": "You can generally revisit the booking history section of the app to access your invoice again. If it's not available there, request a duplicate copy from support.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_129",
+    "question": "Vehicle ke saath mobile holder ya extra accessories milte hain kya?",
+    "answer": "Extra accessories jaise mobile holder ki availability vendor aur booking ke applicable terms par depend karti hai. Pickup se pehle vendor se confirm kar sakte hain.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_130",
+    "question": "What should I do if the app shows a vehicle as available but the vendor says it isn't?",
+    "answer": "Report this mismatch to WavyGo support with your booking details, so the team can look into the discrepancy and help you find an alternative if needed.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_131",
+    "question": "WavyGo support team se complaint resolve hone ke baad feedback dena zaroori hai kya?",
+    "answer": "Feedback dena mandatory nahi hota, lekin agar app me option available hai toh apna experience share karna support team ko improve karne me madad karta hai.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_132",
+    "question": "Does WavyGo allow me to compare two specific vehicles side by side before booking?",
+    "answer": "A side-by-side comparison feature would depend on the app's current design. Check the vehicle listing screens to see how details are currently presented for comparison.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_133",
+    "question": "Agar booking ke time galti se galat rental duration select ho gaya, toh badal sakte hain kya?",
+    "answer": "Confirm hone se pehle duration ko app se edit karne ki koshish karein. Agar booking confirm ho chuki hai, toh WavyGo support ko booking ID ke saath contact karein.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_134",
+    "question": "Can I get a callback from WavyGo support instead of waiting on chat?",
+    "answer": "Whether a callback option is offered depends on the current support channels listed in the app. Check the support section for this option, or use the available channel to reach the team.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_135",
+    "question": "Rental complete hone ke baad vehicle ki photo submit karna zaroori hota hai kya?",
+    "answer": "Return ke time vehicle ki photo lena generally recommended hota hai taaki koi bhi dispute avoid ho sake. Exact requirement vendor aur applicable process par depend kar sakti hai.",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_136",
+    "question": "What is WavyGo?",
+    "answer": "WavyGo is a digital vehicle-rental platform that connects customers with rental businesses and makes it easier to discover and rent two-wheelers.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_137",
+    "question": "What does WavyGo offer?",
+    "answer": "WavyGo provides a platform for discovering, comparing, and renting vehicles such as bikes, scooters, and electric vehicles.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_138",
+    "question": "Who can use WavyGo?",
+    "answer": "WavyGo is designed for customers looking to rent vehicles as well as rental businesses that want to manage and offer their vehicles online.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_139",
+    "question": "What problem does WavyGo solve?",
+    "answer": "WavyGo makes the two-wheeler rental process more convenient by connecting customers with rental providers through a digital platform.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_140",
+    "question": "Why was WavyGo created?",
+    "answer": "WavyGo was created to make urban transportation and vehicle rentals more convenient, accessible, and affordable.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_141",
+    "question": "Is WavyGo a vehicle rental company?",
+    "answer": "WavyGo operates as a digital platform connecting customers with vehicle rental providers rather than simply functioning as a single rental store.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_142",
+    "question": "Does WavyGo work with rental businesses?",
+    "answer": "Yes. WavyGo provides a Partner platform through which rental businesses can manage their vehicles and bookings.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_143",
+    "question": "What type of transportation does WavyGo focus on?",
+    "answer": "WavyGo focuses primarily on two-wheeler rentals, including bikes, scooters, and electric vehicles.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_144",
+    "question": "Is WavyGo useful for tourists?",
+    "answer": "Yes. WavyGo can help users discover rental two-wheelers for commuting, exploring destinations, and travelling around cities.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_145",
+    "question": "Can WavyGo help with everyday commuting?",
+    "answer": "Yes. WavyGo is designed to make convenient two-wheeler transportation available for everyday travel as well as exploration.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_146",
+    "question": "What makes WavyGo different from a traditional rental shop?",
+    "answer": "WavyGo provides a digital platform where customers can discover rental options while rental providers can manage their vehicles and bookings online.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_147",
+    "question": "Is WavyGo focused only on motorcycles?",
+    "answer": "No. The platform supports different two-wheeler categories, including scooters and electric vehicles.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_148",
+    "question": "Can I find electric vehicles on WavyGo?",
+    "answer": "Yes. Electric vehicles are included among the categories available through WavyGo.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_149",
+    "question": "What categories of vehicles can I explore?",
+    "answer": "WavyGo's customer platform includes categories such as commuter, sports, and electric vehicles.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_150",
+    "question": "Can I compare different rental vehicles?",
+    "answer": "Yes. The platform allows customers to explore different vehicle options and review their available details before choosing one.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_151",
+    "question": "Can I check vehicle features before renting?",
+    "answer": "Yes. Vehicle listings can provide information about the vehicle's features and specifications.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_152",
+    "question": "Can I see vehicle pictures on WavyGo?",
+    "answer": "Yes. Vehicle listings can include images so customers can understand what the vehicle looks like before selecting one.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_153",
+    "question": "Can I see the rental price before selecting a vehicle?",
+    "answer": "Yes. WavyGo's customer platform provides rental pricing information for available vehicles.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_154",
+    "question": "Can I check whether a vehicle is available?",
+    "answer": "Yes. Vehicle availability can be checked through the WavyGo platform when searching for rental options.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_155",
+    "question": "Can I explore vehicles before deciding which one to rent?",
+    "answer": "Yes. Customers can search and explore available vehicles before selecting an option.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_156",
+    "question": "Where can I access WavyGo?",
+    "answer": "WavyGo can be accessed through its website and customer mobile application.",
+    "category": "app",
+    "source": "faq"
+  },
+  {
+    "id": "faq_157",
+    "question": "Does WavyGo have a customer app?",
+    "answer": "Yes. WavyGo provides a customer application for discovering and renting vehicles.",
+    "category": "app",
+    "source": "faq"
+  },
+  {
+    "id": "faq_158",
+    "question": "What is the WavyGo customer app used for?",
+    "answer": "The customer app can be used to search for vehicles, view their details, check availability and pricing, and manage rentals.",
+    "category": "app",
+    "source": "faq"
+  },
+  {
+    "id": "faq_159",
+    "question": "Does WavyGo have an app for rental partners?",
+    "answer": "Yes. WavyGo provides a separate Partner application for vehicle owners and rental businesses.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_160",
+    "question": "What is the WavyGo Partner app?",
+    "answer": "It is a platform for rental businesses to add and manage vehicles, handle booking requests, monitor rentals, and track business information.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_161",
+    "question": "Who should use WavyGo Partner?",
+    "answer": "Vehicle owners and rental businesses that want to manage their rental operations digitally can use WavyGo Partner.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_162",
+    "question": "Can a rental business manage several vehicles through WavyGo?",
+    "answer": "Yes. The Partner platform supports management of multiple vehicles.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_163",
+    "question": "Can partners add their vehicles to WavyGo?",
+    "answer": "Yes. Rental partners can add and manage their vehicles through the Partner platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_164",
+    "question": "Can partners update vehicle information?",
+    "answer": "Yes. Partners can manage information associated with their listed vehicles.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_165",
+    "question": "Can partners change vehicle prices?",
+    "answer": "Yes. The Partner platform allows rental providers to manage vehicle pricing.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_166",
+    "question": "Can partners update vehicle availability?",
+    "answer": "Yes. Partners can manage the availability of their vehicles through the Partner platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_167",
+    "question": "How do partners receive rental requests?",
+    "answer": "Rental partners can receive and respond to customer booking requests through the Partner platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_168",
+    "question": "Can partners track their bookings?",
+    "answer": "Yes. Partners can manage and track their bookings through the Partner application.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_169",
+    "question": "Can partners see completed rentals?",
+    "answer": "Yes. The Partner app provides tracking of rental activity, including completed rentals.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_170",
+    "question": "Can partners monitor their earnings?",
+    "answer": "Yes. The Partner platform provides information that helps partners monitor their earnings.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_171",
+    "question": "Can partners view their booking performance?",
+    "answer": "Yes. Partners can view booking and performance-related information through the Partner platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_172",
+    "question": "Can a rental owner manage vehicles digitally?",
+    "answer": "Yes. WavyGo Partner allows rental businesses to manage their vehicles and rental activity digitally.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_173",
+    "question": "How does WavyGo benefit vehicle owners?",
+    "answer": "WavyGo helps rental businesses manage vehicles, prices, availability, booking requests, rentals, and earnings through its digital platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_174",
+    "question": "How does WavyGo connect customers and rental providers?",
+    "answer": "WavyGo acts as a digital platform that brings customers looking for rentals together with rental businesses offering vehicles.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_175",
+    "question": "Can WavyGo help rental businesses reach customers online?",
+    "answer": "Yes. WavyGo provides a digital platform through which rental businesses can list and manage their vehicles for customers.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_176",
+    "question": "Does WavyGo support booking management?",
+    "answer": "Yes. Customers can manage their bookings, while partners can manage incoming and ongoing rental activity through their respective platforms.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_177",
+    "question": "Can I manage my rental information from the app?",
+    "answer": "Yes. The WavyGo customer app provides features for managing booking-related information and rentals.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_178",
+    "question": "Can I schedule a rental for later?",
+    "answer": "Yes. The WavyGo customer platform supports both instant booking and scheduling a rental for a later time.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_179",
+    "question": "Does WavyGo support instant booking?",
+    "answer": "Yes. Customers can book available vehicles instantly through the platform.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_180",
+    "question": "Can I choose between immediate and scheduled rentals?",
+    "answer": "Yes. WavyGo supports instant bookings as well as rentals scheduled for later.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_181",
+    "question": "What information can I check before making a rental decision?",
+    "answer": "Customers can review information such as vehicle details, features, pricing, images, and availability before selecting a rental option.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_182",
+    "question": "Can I search for a vehicle according to my needs?",
+    "answer": "Yes. Customers can explore available vehicles and select an option based on their preferred requirements.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_183",
+    "question": "Can I search for vehicles in a particular location?",
+    "answer": "Yes. WavyGo is designed to help customers discover rental vehicles based on available rental options in their area.",
+    "category": "location",
+    "source": "faq"
+  },
+  {
+    "id": "faq_184",
+    "question": "Can I find commuter vehicles on WavyGo?",
+    "answer": "Yes. Commuter vehicles are one of the categories available on the WavyGo customer platform.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_185",
+    "question": "Can I find sports bikes on WavyGo?",
+    "answer": "Yes. Sports vehicles are included as a vehicle category on the WavyGo platform, subject to availability.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_186",
+    "question": "Does WavyGo show vehicle availability before booking?",
+    "answer": "Yes. Customers can check availability while exploring rental vehicles.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_187",
+    "question": "Can I check the features of an electric vehicle?",
+    "answer": "Yes. Customers can review the available information and features provided for an electric vehicle listing.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_188",
+    "question": "Is WavyGo useful for short trips?",
+    "answer": "Yes. Customers can use vehicle rentals for commuting, exploring, and other travel needs depending on the available rental options.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_189",
+    "question": "Is WavyGo useful for exploring a new city?",
+    "answer": "Yes. Renting a two-wheeler through WavyGo can provide a convenient way to explore a city or destination.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_190",
+    "question": "Can WavyGo be used for daily transportation?",
+    "answer": "Yes. WavyGo is designed to support convenient urban transportation and two-wheeler rentals.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_191",
+    "question": "Does WavyGo aim to make transportation affordable?",
+    "answer": "Yes. WavyGo describes its transportation solution as convenient and affordable while providing access to rental vehicles.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_192",
+    "question": "Does WavyGo promote eco-friendly transportation?",
+    "answer": "Yes. WavyGo's mission includes supporting convenient and eco-friendly urban transportation.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_193",
+    "question": "How does WavyGo contribute to convenient mobility?",
+    "answer": "It provides a digital platform where customers can discover and rent two-wheelers instead of relying only on traditional rental-store processes.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_194",
+    "question": "What is the main goal of WavyGo?",
+    "answer": "WavyGo aims to provide seamless mobility by making vehicle rentals convenient, reliable, accessible, and easy to manage.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_195",
+    "question": "Does WavyGo focus on improving the rental experience?",
+    "answer": "Yes. WavyGo focuses on creating a convenient and smooth experience for both customers and rental providers.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_196",
+    "question": "What can a customer do after finding a suitable vehicle?",
+    "answer": "The customer can review the vehicle information, check pricing and availability, and proceed with the rental process through the platform.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_197",
+    "question": "Can customers manage their bookings from WavyGo?",
+    "answer": "Yes. The customer application provides booking-management functionality.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_198",
+    "question": "Can customers view their rental information?",
+    "answer": "Yes. Customers can use the platform to manage and review information related to their bookings.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_199",
+    "question": "Does WavyGo provide secure transactions?",
+    "answer": "The WavyGo customer app describes its booking experience as supporting secure transactions.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_200",
+    "question": "Does WavyGo provide transparent pricing?",
+    "answer": "WavyGo's platform is designed to provide customers with pricing information so they can understand rental costs while exploring vehicles.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_201",
+    "question": "Can I check vehicle availability before making a decision?",
+    "answer": "Yes. Availability is part of the vehicle discovery process on WavyGo.",
+    "category": "availability",
+    "source": "faq"
+  },
+  {
+    "id": "faq_202",
+    "question": "What can a rental partner do after receiving a booking request?",
+    "answer": "A partner can manage and respond to booking requests through the WavyGo Partner platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_203",
+    "question": "Can partners manage ongoing rentals?",
+    "answer": "Yes. The Partner application supports tracking and management of ongoing rentals.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_204",
+    "question": "Can partners keep track of rental history?",
+    "answer": "Yes. The Partner platform provides information about rental activity, including confirmed, ongoing, and completed rentals.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_205",
+    "question": "Can partners manage vehicle images?",
+    "answer": "Yes. Vehicle information, including images, can be managed through the Partner platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_206",
+    "question": "Can partners control when a vehicle is listed as available?",
+    "answer": "Yes. Partners can update vehicle availability through the Partner application.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_207",
+    "question": "Can a partner manage multiple rental vehicles from one platform?",
+    "answer": "Yes. WavyGo Partner is designed to help rental businesses manage multiple vehicles from one digital platform.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_208",
+    "question": "What advantage does WavyGo give rental businesses?",
+    "answer": "It gives rental businesses digital tools for managing vehicles, prices, availability, booking requests, rentals, and earnings.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_209",
+    "question": "What advantage does WavyGo give customers?",
+    "answer": "Customers can conveniently discover vehicles, review their details and pricing, check availability, and manage rentals digitally.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_210",
+    "question": "Does WavyGo support both customers and rental businesses?",
+    "answer": "Yes. WavyGo has a customer-facing platform for renters and a Partner platform for rental businesses.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_211",
+    "question": "How does WavyGo make vehicle rental more digital?",
+    "answer": "It moves vehicle discovery, booking, and rental management into digital platforms for customers and rental providers.",
+    "category": "about",
+    "source": "faq"
+  },
 ]
