@@ -1476,4 +1476,356 @@
     "category": "about",
     "source": "faq"
   },
+  [
+  {
+    "id": "faq_212",
+    "question": "Security deposit kitna lagta hai bike lete waqt?",
+    "answer": "Security deposit amount vehicle aur vendor policy ke according vary karta hai. Booking confirm karne se pehle app par applicable deposit details check karein.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_213",
+    "question": "Is the security deposit refundable?",
+    "answer": "Yes, the security deposit is generally refundable subject to the vendor's applicable terms, provided the vehicle is returned without damage or violations.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_214",
+    "question": "Late return karne pe extra charge lagega kya?",
+    "answer": "Haan, booking ke return time ke baad vehicle return karne par late fee applicable ho sakti hai. Exact charges booking terms me mentioned hoti hain.",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_215",
+    "question": "Is there a kilometer limit on rentals?",
+    "answer": "Some rentals may include a daily kilometer limit depending on the vendor's policy. Extra usage beyond the limit could attract additional charges.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_216",
+    "question": "Booking duration badhani hai, extend kaise karu?",
+    "answer": "App me apni active booking select karke extend option check karein, agar available ho. Vehicle availability ke according extension confirm hoga.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_217",
+    "question": "Can I book multiple vehicles at once for a group trip?",
+    "answer": "Yes, customers can create separate bookings for multiple vehicles depending on availability at the selected location.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_218",
+    "question": "Electric scooter ki charging kahan available hogi?",
+    "answer": "Charging availability vendor aur vehicle model par depend karti hai. Delivery/pickup ke time charging status aur guidance vendor se confirm kar lein.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_219",
+    "question": "Does WavyGo provide roadside assistance?",
+    "answer": "In case of breakdown, customers can contact vendor/WavyGo support who can help coordinate assistance depending on the situation.",
+    "category": "breakdown",
+    "source": "faq"
+  },
+  {
+    "id": "faq_220",
+    "question": "OTP nahi aa rahi login karte time, kya karu?",
+    "answer": "Kuch der wait karke resend OTP try karein aur network/signal check karein. Agar issue continue rahe, toh WavyGo support se contact karein.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_221",
+    "question": "Is there a minimum age requirement to rent a vehicle?",
+    "answer": "Yes, a minimum age requirement typically applies along with a valid driving licence, as per vendor policy.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_222",
+    "question": "Foreigner ke paas Indian DL nahi hai, kya vo bike rent kar sakta hai?",
+    "answer": "Ye vendor policy aur applicable rules par depend karega. Valid international driving permit ya equivalent documents ki requirement ho sakti hai.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_223",
+    "question": "Does WavyGo offer any coupons or discount codes?",
+    "answer": "Available offers or discount codes, if any, are shown on the app at the time of booking.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_224",
+    "question": "Referral code se koi benefit milta hai kya?",
+    "answer": "Agar referral program active hai, toh referral code se related benefits app par show honge. Terms applicable offer ke according honge.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_225",
+    "question": "Can I rate or review the vehicle after my rental?",
+    "answer": "Yes, customers can typically share feedback or ratings about their rental experience through the app.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_226",
+    "question": "Vendor ka behaviour theek nahi tha, complaint kaise karu?",
+    "answer": "Aap apni complaint booking ID ke saath WavyGo support ko report kar sakte hain. Team issue ko review karke appropriate action legi.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_227",
+    "question": "How long does it take to get the deposit refunded?",
+    "answer": "Refund timelines can vary depending on the vendor's process and payment method used during booking.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_228",
+    "question": "Booking cancel hone ke baad invoice milega kya?",
+    "answer": "Booking se related invoice/receipt generally app ke booking history section me available hota hai.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_229",
+    "question": "Can I download my rental invoice from the app?",
+    "answer": "Yes, invoices or receipts for completed bookings are typically accessible from the booking history section of the app.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_230",
+    "question": "Odometer reading pickup ke time note karni chahiye kya?",
+    "answer": "Haan, pickup ke time odometer reading aur vehicle condition note/photo karna recommended hai, taaki return time koi dispute na ho.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_231",
+    "question": "Does the vehicle come with insurance coverage?",
+    "answer": "Insurance coverage details depend on the vendor and vehicle. Please check the applicable terms shown at the time of booking.",
+    "category": "documents",
+    "source": "faq"
+  },
+  {
+    "id": "faq_232",
+    "question": "Insurance claim ka process kya hoga accident ke case me?",
+    "answer": "Accident ke case me pehle safety ensure karein aur incident ko vendor/WavyGo support ko report karein. Insurance claim process applicable vendor policy ke according follow hoga.",
+    "category": "accident",
+    "source": "faq"
+  },
+  {
+    "id": "faq_233",
+    "question": "Can I change my pickup time after booking?",
+    "answer": "Depending on availability, you may be able to modify pickup time from the booking section of the app.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_234",
+    "question": "Booking confirm karne ke baad vehicle model change ho sakta hai kya?",
+    "answer": "Generally nahi, lekin agar vendor ki taraf se koi issue ho, toh alternate vehicle ya resolution WavyGo support ke through coordinate ho sakta hai.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_235",
+    "question": "Is night-time pickup or delivery available?",
+    "answer": "Night-time pickup or delivery availability depends on the vendor's operating hours shown at the time of booking.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_236",
+    "question": "Weekend pe bike rent karna zyada expensive hota hai kya?",
+    "answer": "Pricing vendor aur demand ke according vary kar sakti hai. Applicable rate app par booking ke time show hota hai.",
+    "category": "pricing",
+    "source": "faq"
+  },
+  {
+    "id": "faq_237",
+    "question": "Can businesses use WavyGo for corporate travel needs?",
+    "answer": "WavyGo's platform can be used for various travel needs, though specific corporate arrangements would depend on available options and vendor terms.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_238",
+    "question": "App me wishlist ya favourite vehicle save kar sakte hain kya?",
+    "answer": "Agar ye feature app me available hai, toh customers apni pasand ki vehicles ko favourite mark kar sakte hain future reference ke liye.",
+    "category": "customer",
+    "source": "faq"
+  },
+  {
+    "id": "faq_239",
+    "question": "Do I get notifications about my booking status?",
+    "answer": "Yes, customers generally receive notifications related to booking confirmation, updates, and reminders through the app.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_240",
+    "question": "No-show ho gaya, booking automatically cancel ho jayegi kya?",
+    "answer": "No-show ke case me applicable policy ke according booking cancel ya charges lagu ho sakte hain. Exact terms booking ke saath mentioned hote hain.",
+    "category": "cancellation",
+    "source": "faq"
+  },
+  {
+    "id": "faq_241",
+    "question": "Can I track my current and past bookings in one place?",
+    "answer": "Yes, the booking history section of the app allows customers to view current and past rental bookings.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_242",
+    "question": "Second-hand ya purani bike milegi ya nayi milegi?",
+    "answer": "Vehicle condition listing me mentioned details ke according hoti hai. Actual vehicle vendor ke inventory par depend karta hai.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_243",
+    "question": "Does WavyGo available in multiple cities?",
+    "answer": "Availability of vehicles depends on the cities and locations where vendors are onboarded on the WavyGo platform.",
+    "category": "about",
+    "source": "faq"
+  },
+  {
+    "id": "faq_244",
+    "question": "Ek city me book karke doosri city me return kar sakte hain kya?",
+    "answer": "Nahi , bike ko doosri city me return nahi kar sakte . Bike ko booking ke time mention kiye gaye designated  return location par         hi return karna hoga .",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_245",
+    "question": "What payment methods are supported on WavyGo?",
+    "answer": "Payment methods supported may include options like cards, UPI, or wallets, depending on what is enabled on the app at checkout.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_246",
+    "question": "Cash payment ka option hai kya pickup ke time?",
+    "answer": "Ye vendor policy par depend karta hai. Available payment methods app par booking ke time show hote hain.",
+    "category": "payment",
+    "source": "faq"
+  },
+  {
+    "id": "faq_247",
+    "question": "Can I cancel a booking within a few minutes of placing it without penalty?",
+    "answer": "Cancellation charges, if any, depend on the applicable cancellation policy shown at the time of booking.",
+    "category": "cancellation",
+    "source": "faq"
+  },
+  {
+    "id": "faq_248",
+    "question": "Vehicle ki service history dekh sakte hain kya booking se pehle?",
+    "answer": "Service history detail har listing me available nahi hoti. Vehicle condition ke basic details listing me mention ho sakte hain.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_249",
+    "question": "Does the app show real-time vehicle location for pickup?",
+    "answer": "Pickup location details are shown at the time of booking; real-time tracking features depend on what the app and vendor provide.",
+    "category": "pickup",
+    "source": "faq"
+  },
+  {
+    "id": "faq_250",
+    "question": "Mujhe helmet size specific chahiye, request kar sakta hun kya?",
+    "answer": "Specific requests vendor availability par depend karti hain. Aap pickup se pehle vendor se directly confirm kar sakte hain.",
+    "category": "vehicle",
+    "source": "faq"
+  },
+  {
+    "id": "faq_251",
+    "question": "Is there a helpline number for urgent issues during a rental?",
+    "answer": "For urgent issues, customers can reach out through the official WavyGo support channels available in the app.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_252",
+    "question": "Bike chori ho jaye toh kya karna hoga?",
+    "answer": "Sabse pehle nearest police station me report file karein aur incident ko immediately vendor/WavyGo support ko inform karein, booking details ke saath.",
+    "category": "accident",
+    "source": "faq"
+  },
+  {
+    "id": "faq_253",
+    "question": "Can I add an additional rider or driver to my booking?",
+    "answer": "This depends on the vendor's policy; any additional rider requirements should be confirmed before pickup.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_254",
+    "question": "App update karne ke baad booking history gayab ho gayi, kya karu?",
+    "answer": "App ko refresh karke ya re-login karke check karein. Agar issue continue rahe, toh WavyGo support ko contact karein.",
+    "category": "support",
+    "source": "faq"
+  },
+  {
+    "id": "faq_255",
+    "question": "Does WavyGo allow booking a vehicle for same-day pickup?",
+    "answer": "Same-day pickup availability depends on current inventory shown on the app for the selected location.",
+    "category": "booking",
+    "source": "faq"
+  },
+  {
+    "id": "faq_256",
+    "question": "Vehicle return karte time cleaning charges lagte hain kya?",
+    "answer": "Agar vehicle excessively dirty return ki jaati hai, toh applicable cleaning charges vendor policy ke according lagu ho sakte hain.",
+    "category": "return",
+    "source": "faq"
+  },
+  {
+    "id": "faq_257",
+    "question": "Can partners set custom pricing for their vehicles?",
+    "answer": "Yes, the WavyGo Partner platform allows rental businesses to manage pricing for their listed vehicles.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_258",
+    "question": "Partner ko payout kaise milta hai booking complete hone ke baad?",
+    "answer": "Payout process aur timeline WavyGo Partner platform ke applicable terms ke according hota hai.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_259",
+    "question": "Can partners block certain dates when a vehicle is unavailable?",
+    "answer": "Yes, partners can update vehicle availability, including blocking specific dates, through the Partner application.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_260",
+    "question": "Naya vendor WavyGo Partner platform par kaise onboard ho sakta hai?",
+    "answer": "Naye vendors WavyGo Partner platform par sign up karke apni details aur vehicles submit karke onboarding process complete kar sakte hain.",
+    "category": "partner",
+    "source": "faq"
+  },
+  {
+    "id": "faq_261",
+    "question": "Does WavyGo verify partners before listing their vehicles?",
+    "answer": "WavyGo generally follows a verification process for partners and vehicles before they are listed on the customer platform.",
+    "category": "partner",
+    "source": "faq"
+  }
 ]
+
